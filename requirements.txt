@@ -1,0 +1,7 @@
+numpy
+torch
+pretty_midi
+mido
+scipy
+streamlit
+tqdm
